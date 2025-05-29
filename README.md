@@ -98,7 +98,7 @@ Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGedeon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGedeon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
