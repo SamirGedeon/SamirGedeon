@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Samir Gedeon
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Ola%2C+meu+nome+é+Samir+Gedeon!;prazer+em+te+conhecer!)](https://git.io/typing-svg)
 
 **`Desenvolvedor FullStack`**
 
