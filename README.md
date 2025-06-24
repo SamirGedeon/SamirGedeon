@@ -63,6 +63,10 @@ Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender 
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
