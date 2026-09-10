@@ -1,94 +1,50 @@
-esse e meu github oq acha ? 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Ola%2C+meu+nome+é+Samir+Gedeon!;prazer+em+te+conhecer!)](https://git.io/typing-svg)
+# Olá, sou Samir Gedeon 👋
 
-**`Desenvolvedor FullStack`**
+**Desenvolvimento web · Engenharia de Software**
 
-👋 Olá! Meu nome é **Samir Gedeon Machado**, tenho 20 anos, sou do Rio de Janeiro e atualmente curso **Engenharia de Software** na Universidade de Vassouras. Concluí o ensino médio no Colégio Gabriel Vargas e hoje atuo na área de Tecnologia da Informação na Prefeitura de Miguel Pereira.
+Sou estudante de **Engenharia de Software na Universidade de Vassouras** e atuo na área de **TI da Prefeitura de Miguel Pereira**, no Rio de Janeiro.
 
-Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades com projetos práticos e desafios do mundo real.
+Por aqui compartilho projetos de frontend, APIs e estudos da faculdade. Tenho trabalhado com Python no backend, HTML, CSS e JavaScript nas interfaces, além de Java nos estudos de orientação a objetos e padrões de projeto.
 
-🚀 Bem-vindo ao meu GitHub!
+## Projetos em destaque
 
----
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [API de rações para pets](https://github.com/SamirGedeon/api-racao) | Cadastro, consulta, atualização e exclusão de rações, com armazenamento em memória. | Python, FastAPI, Docker |
+| [Catálogo de jogos](https://github.com/SamirGedeon/catalogo-jogos-api) | Consulta de jogos em JSON, filtro dos que estão em andamento e gerenciamento pelo Django Admin. | Python, Django, SQLite |
+| [Site de refrigerantes](https://github.com/SamirGedeon/Site-Refri) | Vitrine de produtos com navegação entre sabores e troca de elementos da página. | HTML, CSS, JavaScript |
 
-### 🤖 Linguagens e Tecnologias
+## Estudos de arquitetura
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Dois projetos em **Java 21**, com **Maven, testes JUnit 5 e diagramas de classes**:
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+- [Singleton — Configuração de uma estufa](https://github.com/SamirGedeon/padrao-singleton): configuração compartilhada entre painel e controlador, com teste de acesso por 100 threads.
+- [Factory Method — Documentos escolares](https://github.com/SamirGedeon/padrao-factory-method): emissão de declarações e certificados por criadores específicos, com validação da conclusão do curso.
 
-### 📊 Estatísticas
+## Tecnologias que uso e estudo
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SamirGedeon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="34" height="34" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="34" height="34" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="34" height="34" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="34" height="34" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="34" height="34" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="34" height="34" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="34" height="34" />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGedeon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
+Também utilizo **Django, FastAPI, Docker, Git e Maven** nos projetos.
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake.svg">
-</picture>
+## Contato
+
+[Enviar um e-mail](mailto:samirgd173@gmail.com)
+
+<details>
+  <summary>🐍 Minha atividade no GitHub</summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" width="100%" />
+  </picture>
+</details>
