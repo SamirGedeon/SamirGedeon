@@ -10,9 +10,13 @@ Por aqui compartilho projetos de frontend, APIs e estudos da faculdade. Tenho tr
 
 | Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
-| [API de rações para pets](https://github.com/SamirGedeon/api-racao) | Cadastro, consulta, atualização e exclusão de rações, com armazenamento em memória. | Python, FastAPI, Docker |
-| [Catálogo de jogos](https://github.com/SamirGedeon/catalogo-jogos-api) | Consulta de jogos em JSON, filtro dos que estão em andamento e gerenciamento pelo Django Admin. | Python, Django, SQLite |
-| [Site de refrigerantes](https://github.com/SamirGedeon/Site-Refri) | Vitrine de produtos com navegação entre sabores e troca de elementos da página. | HTML, CSS, JavaScript |
+| [Drew Studio](https://github.com/SamirGedeon/Lading-Page) | Site demonstrativo de estúdio criativo, responsivo, com tema claro/escuro e briefing para download. | HTML, CSS, JavaScript |
+| [Controle de estoque](https://github.com/SamirGedeon/estoque-spring-api) | Painel web e API para gerenciar produtos, com banco local e testes de API, interface e reinício. | Java 17, Spring Boot, JDBC, H2 |
+| [Fruta — Vitrine de sabores](https://github.com/SamirGedeon/Site-Refri) | Vitrine demonstrativa com carrossel, navegação por teclado e layout adaptado ao celular. | HTML, CSS, JavaScript |
+
+Os três projetos são demonstrações de estudo e portfólio. Os READMEs incluem capas reais, instruções para executar e limites de cada aplicação.
+
+Outros estudos: [catálogo de jogos com Django](https://github.com/SamirGedeon/catalogo-jogos-api) e [API de rações com FastAPI](https://github.com/SamirGedeon/api-racao).
 
 ## Estudos de arquitetura
 
@@ -34,10 +38,6 @@ Dois projetos em **Java 21**, com **Maven, testes JUnit 5 e diagramas de classes
 </p>
 
 Também utilizo **Django, FastAPI, Docker, Git e Maven** nos projetos.
-
-## Contato
-
-[Enviar um e-mail](mailto:samirgd173@gmail.com)
 
 <details>
   <summary>🐍 Minha atividade no GitHub</summary>
