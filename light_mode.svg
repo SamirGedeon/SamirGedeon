@@ -96,7 +96,7 @@
 <rect x="257" y="532" width="15" height="6" rx="1" fill="#7928b5" opacity="0.12"><title>2026-11-08: 0</title></rect>
 <rect x="257" y="541" width="15" height="6" rx="1" fill="#7928b5" opacity="1"><title>2026-11-09: 11</title></rect>
 <rect x="257" y="550" width="15" height="6" rx="1" fill="#7928b5" opacity="0.75"><title>2026-11-10: 6</title></rect>
-<rect x="257" y="559" width="15" height="6" rx="1" fill="#7928b5" opacity="0.6833333333333333"><title>2026-11-11: 5</title></rect>
+<rect x="257" y="559" width="15" height="6" rx="1" fill="#7928b5" opacity="1"><title>2026-11-11: 18</title></rect>
 <text x="48" y="585" class="muted">public activity / last 12 weeks</text>
 <text x="380" y="31" class="heading">samir@gedeon ~ / about</text>
 <text x="380" y="48" class="muted">─────────────────────────────────────────────────────────────────</text>
@@ -114,12 +114,12 @@
 <text x="380" y="346"><tspan class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted"> ................. </tspan><tspan class="value">github.com/SamirGedeon</tspan></text>
 <text x="380" y="387" class="heading">GitHub stats / public data</text>
 <text x="380" y="404" class="muted">─────────────────────────────────────────────────────────────────</text>
-<text x="380" y="430"><tspan class="muted">. </tspan><tspan class="key">Repositories</tspan><tspan class="muted"> ........... </tspan><tspan class="value">38 public / 0 stars (non-forks)</tspan></text>
-<text x="380" y="452"><tspan class="muted">. </tspan><tspan class="key">Commits / 365d</tspan><tspan class="muted"> ......... </tspan><tspan class="value">66 indexed public commits</tspan></text>
+<text x="380" y="430"><tspan class="muted">. </tspan><tspan class="key">Repositories</tspan><tspan class="muted"> ........... </tspan><tspan class="value">40 public / 0 stars (non-forks)</tspan></text>
+<text x="380" y="452"><tspan class="muted">. </tspan><tspan class="key">Commits / 365d</tspan><tspan class="muted"> ......... </tspan><tspan class="value">78 indexed public commits</tspan></text>
 <text x="380" y="474"><tspan class="muted">. </tspan><tspan class="key">Followers</tspan><tspan class="muted"> .............. </tspan><tspan class="value">7</tspan></text>
-<text x="380" y="496"><tspan class="muted">. </tspan><tspan class="key">Contributions / 365d</tspan><tspan class="muted"> ... </tspan><tspan class="value">101</tspan></text>
-<text x="380" y="518"><tspan class="muted">. </tspan><tspan class="key">Code / top bytes</tspan><tspan class="muted"> ....... </tspan><tspan class="value">TypeScript 53% / Java 30% / CSS 8%</tspan></text>
+<text x="380" y="496"><tspan class="muted">. </tspan><tspan class="key">Contributions / 365d</tspan><tspan class="muted"> ... </tspan><tspan class="value">114</tspan></text>
+<text x="380" y="518"><tspan class="muted">. </tspan><tspan class="key">Code / top bytes</tspan><tspan class="muted"> ....... </tspan><tspan class="value">TypeScript 47% / Java 23% / JavaScript 11%</tspan></text>
 <text x="380" y="540"><tspan class="muted">. </tspan><tspan class="key">Lines added / removed</tspan><tspan class="muted"> .. </tspan><tspan class="value">N/A / not measured</tspan></text>
 <text x="380" y="581" class="muted">Metrics scope &amp; project links: README / docs/SETUP.md</text>
-<text x="380" y="600" class="muted">UPDATED · 2026-11-11 14:11:15 UTC</text>
+<text x="380" y="600" class="muted">UPDATED · 2026-11-11 17:06:29 UTC</text>
 </svg>
