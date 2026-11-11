@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/banner.svg" alt="Samir Gedeon — Web Development" width="100%" />
   <p><code>&gt;_ Software Engineering student · Aspiring Full Stack Developer</code></p>
+  <a href="https://samir-gedeon-laboratorio.loosegibbon1.chatgpt.site"><img src="https://img.shields.io/badge/PORTFOLIO-09060f?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=b000ff" alt="Visit my portfolio" /></a>
   <a href="https://github.com/SamirGedeon"><img src="https://img.shields.io/badge/GITHUB-09060f?style=for-the-badge&amp;logo=github&amp;logoColor=b000ff" alt="GitHub" /></a>
   <a href="#selected-projects"><img src="https://img.shields.io/badge/PROJECTS-09060f?style=for-the-badge&amp;logo=githubpages&amp;logoColor=b000ff" alt="Selected projects" /></a>
 </div>
