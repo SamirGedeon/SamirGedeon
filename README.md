@@ -39,15 +39,24 @@ I am working toward a **junior full stack development opportunity**, with a focu
 
 ### Selected projects
 
-| Project | What I practiced | Stack |
+| Project | What it demonstrates | Technologies |
 | --- | --- | --- |
-| [Inventory manager](https://github.com/SamirGedeon/estoque-spring-api) | Product management, API validation and testing | Java, Spring Boot, JDBC, H2 |
-| [Drew Studio](https://github.com/SamirGedeon/Lading-Page) | Responsive interfaces, theme switching and downloadable briefing | HTML, CSS, JavaScript |
-| [Fruta](https://github.com/SamirGedeon/Site-Refri) | Responsive layouts, keyboard navigation and a product carousel | HTML, CSS, JavaScript |
-| [Game catalog](https://github.com/SamirGedeon/catalogo-jogos-api) | Backend development | Python, Django |
-| [Design patterns](https://github.com/SamirGedeon/integracao-chain-strategy-template-method-java) | Composition of Chain of Responsibility, Strategy and Template Method | Java, Maven, JUnit |
+| [Mania de Bicho](https://github.com/SamirGedeon/mania-de-bicho-site) | Pet-shop prototype with product categories, product pages and a shopping cart persisted in the browser. | React, TypeScript, Tailwind CSS, Vinext |
+| [Hotel Fazenda Fascinação](https://github.com/SamirGedeon/hotel-fazenda-fascinacao) | Hospitality website with a component-based interface and responsive styling. | React, TypeScript, Tailwind CSS, Vinext |
+| [Inventory manager](https://github.com/SamirGedeon/estoque-spring-api) | Web dashboard and REST API with input validation, H2 persistence and automated tests. | Java, Spring Boot, JDBC, H2 |
+| [Automated GitHub profile](https://github.com/SamirGedeon/SamirGedeon) | Public API data collection, theme-aware SVG generation, cached fallback and daily CI automation. | Python, GitHub API, SVG, GitHub Actions |
 
-These are learning and portfolio projects. Each repository documents its own setup and scope.
+The pet-shop project is a prototype without checkout or payment processing. The inventory manager is a local learning application. Each repository documents its own setup and limitations.
+
+<details>
+<summary>More projects and software design studies</summary>
+
+- [Drew Studio](https://github.com/SamirGedeon/Lading-Page) — responsive interfaces and theme switching with HTML, CSS and JavaScript.
+- [Fruta](https://github.com/SamirGedeon/Site-Refri) — product carousel and keyboard navigation with HTML, CSS and JavaScript.
+- [Game catalog](https://github.com/SamirGedeon/catalogo-jogos-api) — backend development with Python and Django.
+- [Design patterns](https://github.com/SamirGedeon/integracao-chain-strategy-template-method-java) — Chain of Responsibility, Strategy and Template Method with Java, Maven and JUnit.
+
+</details>
 
 <br />
 
