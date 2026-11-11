@@ -1,0 +1,43 @@
+name: Update profile metrics
+on:
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - src/**
+      - templates/**
+      - assets/**
+      - tests/**
+      - profile.toml
+      - .github/workflows/update-stats.yml
+permissions:
+  contents: write
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify generator
+        run: python -m unittest discover -s tests -v
+      - name: Generate public metrics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python src/generate.py
+      - name: Commit updated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dark_mode.svg light_mode.svg cache/stats.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh public profile metrics'
+            git push
+          fi

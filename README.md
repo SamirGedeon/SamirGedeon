@@ -1,50 +1,54 @@
-# Olá, sou Samir Gedeon 👋
+# Samir Gedeon
 
-**Desenvolvimento web · Engenharia de Software**
+**Software Engineering student · Web development**
 
-Sou estudante de **Engenharia de Software na Universidade de Vassouras** e atuo na área de **TI da Prefeitura de Miguel Pereira**, no Rio de Janeiro.
+I study Software Engineering at Universidade de Vassouras and work in IT at the City of Miguel Pereira, Rio de Janeiro. I build portfolio projects to practice web interfaces, APIs, testing and software design.
 
-Por aqui compartilho projetos de frontend, APIs e estudos da faculdade. Tenho trabalhado com Python no backend, HTML, CSS e JavaScript nas interfaces, além de Java nos estudos de orientação a objetos e padrões de projeto.
+My goal is to grow into a junior full stack development role, with a focus on readable code, useful documentation and reliable applications.
 
-## Projetos em destaque
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img src="light_mode.svg" alt="Samir Gedeon's public GitHub statistics, languages and activity. Scope and limitations are documented below." width="100%" />
+</picture>
 
-| Projeto | O que faz | Tecnologias |
+## Selected projects
+
+| Project | What I practiced | Stack |
 | --- | --- | --- |
-| [Drew Studio](https://github.com/SamirGedeon/Lading-Page) | Site demonstrativo de estúdio criativo, responsivo, com tema claro/escuro e briefing para download. | HTML, CSS, JavaScript |
-| [Controle de estoque](https://github.com/SamirGedeon/estoque-spring-api) | Painel web e API para gerenciar produtos, com banco local e testes de API, interface e reinício. | Java 17, Spring Boot, JDBC, H2 |
-| [Fruta — Vitrine de sabores](https://github.com/SamirGedeon/Site-Refri) | Vitrine demonstrativa com carrossel, navegação por teclado e layout adaptado ao celular. | HTML, CSS, JavaScript |
+| [Inventory manager](https://github.com/SamirGedeon/estoque-spring-api) | Product management, API validation and testing | Java, Spring Boot, JDBC, H2 |
+| [Drew Studio](https://github.com/SamirGedeon/Lading-Page) | Responsive interfaces, theme switching and downloadable briefing | HTML, CSS, JavaScript |
+| [Fruta](https://github.com/SamirGedeon/Site-Refri) | Responsive layouts, keyboard navigation and a product carousel | HTML, CSS, JavaScript |
+| [Game catalog](https://github.com/SamirGedeon/catalogo-jogos-api) | Backend development | Python, Django |
+| [Design patterns](https://github.com/SamirGedeon/integracao-chain-strategy-template-method-java) | Composition of Chain of Responsibility, Strategy and Template Method | Java, Maven, JUnit |
 
-Os três projetos são demonstrações de estudo e portfólio. Os READMEs incluem capas reais, instruções para executar e limites de cada aplicação.
+These are learning and portfolio projects. Each repository documents its own setup and scope.
 
-Outros estudos: [catálogo de jogos com Django](https://github.com/SamirGedeon/catalogo-jogos-api) e [API de rações com FastAPI](https://github.com/SamirGedeon/api-racao).
-
-## Estudos de arquitetura
-
-Dois projetos em **Java 21**, com **Maven, testes JUnit 5 e diagramas de classes**:
-
-- [Singleton — Configuração de uma estufa](https://github.com/SamirGedeon/padrao-singleton): configuração compartilhada entre painel e controlador, com teste de acesso por 100 threads.
-- [Factory Method — Documentos escolares](https://github.com/SamirGedeon/padrao-factory-method): emissão de declarações e certificados por criadores específicos, com validação da conclusão do curso.
-
-## Tecnologias que uso e estudo
+## Technologies I use and study
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="34" height="34" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="34" height="34" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="34" height="34" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="34" height="34" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="34" height="34" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="34" height="34" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" alt="Java" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS" width="32" height="32" />
 </p>
 
-Também utilizo **Django, FastAPI, Docker, Git e Maven** nos projetos.
+Java / Spring Boot · Python / Django / FastAPI · HTML / CSS / JavaScript · Git / Maven
+
+## Activity and engineering
+
+These cards are generated by an independent Python program using GitHub's API, with light and dark SVG themes, daily automation and a cached fallback. Numbers describe public activity, not experience or proficiency. [Metric definitions and setup](docs/SETUP.md).
 
 <details>
-  <summary>🐍 Minha atividade no GitHub</summary>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" width="100%" />
-  </picture>
+<summary>Contribution snake</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/SamirGedeon/SamirGedeon/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution grid" width="100%" />
+</picture>
 </details>
+
+## Connect
+
+Find my work and public activity on [GitHub](https://github.com/SamirGedeon). Professional contact links will be added when available.

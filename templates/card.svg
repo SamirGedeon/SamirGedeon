@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 620" role="img" aria-labelledby="title desc">
+<title id="title">$title</title><desc id="desc">$description</desc>
+<style>text{font-family:Consolas,'Liberation Mono',monospace;fill:$text;font-size:13px;white-space:pre}.muted{fill:$muted;font-size:11px}.accent{fill:$accent}.key{fill:$key}.value{fill:$value}.ascii{fill:$text;font-size:12px}.heading{font-size:14px}</style>
+<rect width="985" height="620" rx="12" fill="$background"/>
+$body
+</svg>
