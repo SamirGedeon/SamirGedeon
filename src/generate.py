@@ -77,7 +77,7 @@ def text(x, y, value, css=''):
     return f'<text x="{x}" y="{y}" class="{css}">{escape(str(value))}</text>'
 
 def render(config, data, theme, stale=False):
-    palette = dict(background='#161b22',text='#c9d1d9',muted='#8492a5',accent='#7ee787',key='#ffa657',value='#a5d6ff') if theme=='dark' else dict(background='#f6f8fa',text='#24292f',muted='#57606a',accent='#116329',key='#953800',value='#0550ae')
+    palette = dict(background='#100b18',text='#e3d9ef',muted='#a99ab9',accent='#c084fc',key='#c084fc',value='#ddd0ed') if theme=='dark' else dict(background='#faf7ff',text='#2a183c',muted='#6e587f',accent='#7928b5',key='#7928b5',value='#49335f')
     out=[]
     # Embedded local portrait keeps the SVG self-contained on GitHub.
     import base64

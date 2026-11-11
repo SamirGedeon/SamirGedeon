@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Samir Gedeon — Web Development</title><desc id="desc">Original purple terminal-inspired banner with abstract orbital lines.</desc>
+<defs><radialGradient id="glow"><stop stop-color="#8825cd" stop-opacity=".48"/><stop offset="1" stop-color="#08050e" stop-opacity="0"/></radialGradient><linearGradient id="line"><stop stop-color="#30213f"/><stop offset=".55" stop-color="#b35bfa"/><stop offset="1" stop-color="#30213f"/></linearGradient></defs>
+<rect width="1200" height="300" rx="14" fill="#09060f"/>
+<ellipse cx="890" cy="145" rx="400" ry="270" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" opacity=".65"><ellipse cx="955" cy="160" rx="230" ry="84" transform="rotate(-24 955 160)"/><ellipse cx="955" cy="160" rx="185" ry="120" transform="rotate(30 955 160)"/><circle cx="955" cy="160" r="62"/><path d="M720 250L1190 20M780 290L1180 80"/></g>
+<g font-family="Consolas,monospace"><text x="58" y="76" fill="#c99aff" font-size="15">~/samir-gedeon / portfolio</text><text x="54" y="157" fill="#f5efff" font-size="53" font-weight="700">Samir Gedeon</text><text x="58" y="202" fill="#c4b2d9" font-size="18">WEB DEVELOPMENT · SOFTWARE ENGINEERING</text><text x="58" y="256" fill="#a46cdb" font-size="13">build. learn. test. repeat.</text><text x="910" y="174" fill="#ead5ff" font-size="44">&lt;/&gt;</text></g>
+</svg>
