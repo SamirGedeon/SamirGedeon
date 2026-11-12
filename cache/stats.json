@@ -1,16 +1,16 @@
 {
   "username": "SamirGedeon",
-  "updated": "2026-11-11T17:09:50.070532+00:00",
-  "repositories": 40,
+  "updated": "2026-11-12T17:40:13.472358+00:00",
+  "repositories": 42,
   "stars": 0,
   "followers": 7,
   "commits": 79,
   "languages": {
-    "TypeScript": 456483,
+    "TypeScript": 466554,
     "Java": 225265,
-    "JavaScript": 107598,
+    "JavaScript": 107745,
+    "HTML": 104966,
     "CSS": 88363,
-    "HTML": 67941,
     "Ruby": 28631
   },
   "popular": [
@@ -25,17 +25,13 @@
       "url": "https://github.com/SamirGedeon/api-racao"
     },
     {
-      "name": "cardapio-spring-api",
+      "name": "armazem-do-pao",
       "stars": 0,
-      "url": "https://github.com/SamirGedeon/cardapio-spring-api"
+      "url": "https://github.com/SamirGedeon/armazem-do-pao"
     }
   ],
-  "contributions": 115,
+  "contributions": 117,
   "days": [
-    {
-      "date": "2025-11-11",
-      "contributionCount": 0
-    },
     {
       "date": "2025-11-12",
       "contributionCount": 0
@@ -1494,7 +1490,11 @@
     },
     {
       "date": "2026-11-11",
-      "contributionCount": 19
+      "contributionCount": 20
+    },
+    {
+      "date": "2026-11-12",
+      "contributionCount": 1
     }
   ]
 }
